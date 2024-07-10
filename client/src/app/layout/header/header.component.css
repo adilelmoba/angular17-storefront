@@ -1,0 +1,19 @@
+.wrapper {
+  width: 100%;
+  border-bottom: 1px solid var(--border-color);
+  padding: 2rem;
+}
+.wrapper a {
+  text-decoration: none;
+  font-weight: 300;
+  color: #000;
+}
+.wrapper a.active {
+  font-weight: 900;
+}
+.wrapper .logo {
+  height: 2rem;
+  -o-object-fit: contain;
+     object-fit: contain;
+  margin-right: auto;
+}/*# sourceMappingURL=header.component.css.map */

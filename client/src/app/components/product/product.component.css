@@ -1,0 +1,23 @@
+.wrapper {
+  width: 250px;
+}
+.wrapper img {
+  aspect-ratio: 1;
+  -o-object-fit: contain;
+     object-fit: contain;
+  width: 100%;
+  border-radius: 15px;
+  background-color: #808080;
+}
+.wrapper .title {
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.wrapper .price-label {
+  font-weight: 300;
+  font-size: 1rem;
+}
+.wrapper .price {
+  font-weight: 500;
+  font-size: 1rem;
+}/*# sourceMappingURL=product.component.css.map */
