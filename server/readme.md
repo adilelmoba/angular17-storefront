@@ -1,4 +1,4 @@
-# Clothing Store API
+# Storefront API
 
 This is a simple Express.js API for managing a collection of clothing items. The API allows you to perform CRUD (Create, Read, Update, Delete) operations on the items stored in a JSON file.
 
